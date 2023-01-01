@@ -19,9 +19,9 @@
   "homepage": "https://github.com/CofeeWithRose/staticfile#readme",
   "devDependencies": {
     "chalk": "^2.4.2",
-    "ts-loader": "^6.2.1",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.6.4",
-    "webpack": "^4.41.2"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "@types/koa": "^2.0.51",
